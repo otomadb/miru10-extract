@@ -1,0 +1,7 @@
+# VScode
+.vscode/settings.json
+
+# Result
+pages/*
+
+!.gitkeep
